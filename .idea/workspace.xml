@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="432ecadf-74bb-4d8b-b9be-09d8aeeab805" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/LoginServer/LoginServer.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoginServer/LoginServer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearingGo.md" beforeDir="false" afterPath="$PROJECT_DIR$/LearingGo.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/LoginServer/LoginServer.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="48" column="18" lean-forward="true" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+            <state relative-caret-position="376">
+              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
               <folding>
                 <element signature="e#14#38#0" expanded="true" />
               </folding>
@@ -73,8 +74,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="900" />
-    <option name="y" value="240" />
+    <option name="x" value="482" />
+    <option name="y" value="293" />
     <option name="width" value="1400" />
     <option name="height" value="645" />
   </component>
@@ -165,7 +166,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32978722" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.35933807" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.27659574" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -207,8 +208,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LoginServer/LoginServer.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="48" column="18" lean-forward="true" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+        <state relative-caret-position="376">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
           <folding>
             <element signature="e#14#38#0" expanded="true" />
           </folding>
